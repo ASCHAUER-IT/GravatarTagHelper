@@ -6,6 +6,9 @@
     <Nullable>enable</Nullable>
     <AssemblyName>AschauerIT.$(MSBuildProjectName)</AssemblyName>
     <RootNamespace>AschauerIT.TagHelpers</RootNamespace>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/ASCHAUER-IT/GravatarTagHelper</RepositoryUrl>
+    <PackageId>AschauerIT.GravatarTagHelper</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
